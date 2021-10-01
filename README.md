@@ -1,5 +1,5 @@
 # Primer3-dependent-assay-design-pipeline
-Primer3 dependent assay design such as PCR. Change your settings based on your own needs
+Primer3 dependent assay design such as PCR. Change your settings based on your own needs.
 
 # Assay Design Pipeline
 
